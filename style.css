@@ -1,0 +1,15 @@
+#chart{
+    width: 1500px;
+    height: 720px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+}
+.bar{
+    display: inline-block;
+    width: 25px;
+    height: 300px;
+    background-color: #7ED26D;
+    margin-right: 5px;
+}
+path:hover {  opacity:0.9; }
+rect:hover {  fill:lightgreen; }

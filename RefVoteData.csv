@@ -1,0 +1,13 @@
+Region,Result,Maj,MajP,YesVote,YesP,NoVote,NoP,Electorate,ValidVotes,TurnoutP,StandardDeviation,Region,AreaOfLowestYesVote,PYes,AreaOfHighestYesVote,PYes2,Difference,StandardDeviation2
+North East,No,333.187,43.9,212951,28.1,546138,71.9,1.967.332,759.089,39,3.1,North East,Hartlepool,23.1,Newcastle-upon-Tyne,35.9,12.8,3.1
+West Midlands,No,695.925,43.0,461847,28.5,1157772,71.5,4.092.469,1.619.619,40,3.5,West Midlands,South Staffordshire,20.9,Birmingham,35.7,14.8,3.5
+East Midlands,No,604.987,42.5,408877,28.7,1013864,71.3,3.347.851,1.422.741,42,4.0,East Midlands,South Holland,21.4,Leicester,42.9,21.4,4.0
+East of England,No,767.864,42.0,530140,29.0,1298004,71.0,4.262.724,1.828.144,43,6.0,East of England,Castle Point,20.3,Cambridge,54.3,34.0,6.0
+South East,No,1.128.000,40.6,823793,29.7,1951793,70.3,6.290.853,2.775.586,44,5.3,South East,Havant,23.0,Oxford,54.1,31.1,5.3
+North West,No,802.952,39.6,613249,30.2,1416201,69.8,5.237.698,2.029.450,39,4.3,North West,Wyre,23.3,Manchester,44.5,21.2,4.3
+Yorkshire and The Humber,No,567646,37.4,474532,31.3,1042178,68.7,3.835.056,1.516.710,40,4.1,Yorkshire and The Humber,North East Lincolnshire,24.5,Sheffield,38.3,13.8,4.1
+South West,No,660.764,36.9,564541,31.5,1225305,68.5,4.027.945,1.789.846,44,4.1,South West,East Dorset,23.1,Bristol,44.7,21.6,4.1
+Wales,No,290.958,30.9,325349,34.6,616307,65.4,2268735,941.656,42,3.6,Wales,Clwyd West,30.2,Cardiff Central,45.7,15.5,3.6
+Scotland,No,535.562,27.3,713813,36.4,1249375,63.6,3.892.622,1.963.188,50,5.6,Scotland,Banffshire and Buchan Coast,29.1,Glasgow Kelvin,58.8,29.7,5.6
+London,No,389.053,20.9,734427,39.5,1123480,60.5,5.257.846,1.857.907,35,9.6,London,Havering,22.7,Hackney,60.7,38.0,9.6
+Northern Ireland,No,83.618,12.6,289088,43.7,372706,56.3,1.198.966,661.794,55,-,Northern Ireland,-,-,-,-,-,-
